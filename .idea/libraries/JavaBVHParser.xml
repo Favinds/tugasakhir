@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="JavaBVHParser">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/JavaBVHParser.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
